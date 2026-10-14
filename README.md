@@ -13,6 +13,22 @@ Yunshu Chen, Litao Yang, Marco Podobnik, Safoura Zardadi, Margo Montandon,
 Guanliang Chen, Peter D. Currie, Zongyuan Ge, and Jackie Rong.
 IEEE BIBM 2026.
 
+Citation metadata and the full author list are provided in [CITATION.cff](CITATION.cff).
+The paper is accepted; a DOI and proceedings page numbers are not yet included.
+
+## License
+
+The original code, documentation, bundled weights, and sample images are available
+under the custom [FishScope Non-Commercial Research License](LICENSE).
+Use, modification, and redistribution are permitted only for non-commercial
+scientific research, subject to the license conditions. Commercial use, including
+commercial product development or paid analysis services, requires separate
+written permission from the relevant copyright holders.
+
+This is a source-available research license, not an open-source license.
+Third-party dependencies retain their own licenses. Refer to [LICENSE](LICENSE)
+for the complete terms.
+
 ## Release scope
 
 The demo includes a U-Net++ backbone with confidence-adaptive trimaps and boundary

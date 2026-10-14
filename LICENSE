@@ -1,0 +1,68 @@
+FishScope Non-Commercial Research License
+Version 1.0
+
+Copyright (c) 2026 FishScope contributors
+
+1. Scope
+
+This license applies to the original source code, documentation, model weights,
+and sample images supplied by the FishScope contributors in this repository
+(the "Materials"), except for material expressly identified as subject to
+different terms. Third-party dependencies remain under their own licenses.
+
+2. Permission for Non-commercial Research
+
+Subject to the conditions below, the copyright holders grant you a worldwide,
+non-exclusive, royalty-free copyright license to use, reproduce, modify, and
+redistribute the Materials and modified versions solely for Non-commercial
+Research.
+
+"Non-commercial Research" means scientific investigation, methodological
+evaluation, or reproducibility work that is not directed toward commercial
+advantage or monetary compensation. Academic salaries, public or charitable
+research grants, and publication in scholarly venues do not by themselves make
+research commercial; the purpose and intended application of the work determine
+whether it is permitted.
+
+Commercial use is not permitted under this license. This includes selling or
+commercially licensing the Materials, providing paid analysis or consulting
+services using them, incorporating them into commercial products or services,
+or using them to develop or validate products or services for commercial use.
+Making a product or service free of charge does not by itself make its use
+Non-commercial Research.
+
+3. Conditions
+
+Any redistribution of the Materials or modified versions must retain the
+copyright notices, include this complete license, and preserve its
+Non-commercial Research restriction. Modified versions must clearly identify
+that changes have been made. You may not offer the Materials or modified
+versions under terms that permit uses prohibited by this license.
+
+You may publish independent research results and scholarly articles arising
+from permitted use. This license does not claim ownership of those results or
+articles. Please acknowledge FishScope and cite the associated paper using
+the information in CITATION.cff when appropriate.
+Citation is requested, but is not a condition of this license.
+
+4. Other permissions and rights
+
+Any use outside the permission granted above requires separate written
+permission from the relevant copyright holders. Requests for commercial
+permission may be directed to the repository maintainers at
+https://github.com/CHEN-Yunshu/fishscope.
+
+No ownership, trademark, or patent rights are transferred by this license.
+No rights are granted in third-party materials beyond those their respective
+rights holders provide. Rights not expressly granted are reserved.
+
+5. Warranty, liability, and termination
+
+To the extent permitted by applicable law, the Materials are supplied without
+warranties, including warranties of accuracy, suitability for a particular
+purpose, merchantability, or non-infringement. The copyright holders and
+contributors are not liable for losses or damages arising from use of the
+Materials, to the extent applicable law permits such exclusion.
+
+Your permission under this license terminates if you violate its conditions.
+This license does not limit uses independently permitted by applicable law.

@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+type: software
+title: FishScope
+message: "If you use FishScope in research, please cite the associated paper below."
+authors:
+  - family-names: Chen
+    given-names: Yunshu
+repository-code: "https://github.com/CHEN-Yunshu/fishscope"
+url: "https://github.com/CHEN-Yunshu/fishscope"
+license-url: "https://github.com/CHEN-Yunshu/fishscope/blob/main/LICENSE"
+preferred-citation:
+  type: conference-paper
+  title: "FishScope: Automated Segmentation of Birefringence Imaging Data for Quantifying Zebrafish Muscle Regeneration"
+  authors:
+    - family-names: Chen
+      given-names: Yunshu
+    - family-names: Yang
+      given-names: Litao
+    - family-names: Podobnik
+      given-names: Marco
+    - family-names: Zardadi
+      given-names: Safoura
+    - family-names: Montandon
+      given-names: Margo
+    - family-names: Chen
+      given-names: Guanliang
+    - family-names: Currie
+      given-names: Peter D.
+    - family-names: Ge
+      given-names: Zongyuan
+    - family-names: Rong
+      given-names: Jackie
+  collection-title: "2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
+  year: 2026
+  status: in-press
+  notes: "Accepted for IEEE BIBM 2026."
